@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shaheer Tareen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "I am computer engineerat Virginia Tech"
-  location         : "Earth"
+  location         : "Blacksburg, Virinia"
   employer         : "Virginia Tech"
   uri              : "https://shaheer-tareen.github.io" # URL
   email            : "stareen1@vt.edu" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Username: Shaheer-Tareen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
